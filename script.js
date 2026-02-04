@@ -1,11 +1,14 @@
 function audiot1(t1) {
   t1.classList.toggle("C4");
   const som = new Audio("sons/xylophone-c4.wav");
-  som.volume = 1;
+  som.volume = 0.6;
   som.play();
 }
 function audiot2(t2) {
-  t2.classList.toggle("RD");
+  t2.classList.toggle("D4");
+  const som = new Audio("sons/xylo-nd-72-c4(d4).mp3");
+  som.volume = 0.5;
+  som.play();
 }
 function audiot3(t3) {
   t3.classList.toggle("ME");
