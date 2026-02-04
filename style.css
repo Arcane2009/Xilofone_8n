@@ -1,0 +1,75 @@
+body{
+    justify-items: center;
+}
+.secao1{
+    justify-items: center;
+}
+.secao2{
+    width: 950px;
+    height: 60px;
+    display: grid;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    background-color: rgb(170, 79, 5);
+    justify-items: center;
+    border-radius: 3%;
+}
+div{
+    width: 100px;
+    cursor: pointer;
+}
+#t1{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+}
+#t2{
+    background-color: rgb(255, 123, 0);
+    height: 120px;
+}
+#t3{
+    background-color: rgb(94, 255, 0);
+    height: 140px;
+}
+#t4{
+    background-color: rgb(0, 255, 234);
+    height: 160px;
+}
+#t5{
+    background-color: rgb(4, 0, 255);
+    height: 180px;
+}
+#t6{
+    background-color: rgb(174, 0, 255);
+    height: 200px;
+}
+#t7{
+    background-color: rgb(179, 53, 114);
+    height: 220px;
+}
+#t8{
+    background-color: rgb(92, 18, 49);
+    height: 240px;
+}
+.C4{
+    opacity: 0.5;
+}
+.RD{
+    opacity: 0.5;
+}
+.ME{
+    opacity: 0.5;
+}
+.FF{
+    opacity: 0.5;
+}
+.SG{
+    opacity: 0.5;
+}
+.LA{
+    opacity: 0.5;
+}
+.SB{
+    opacity: 0.5;
+}
+.DCc{
+    opacity: 0.5;
+}
