@@ -16,6 +16,7 @@ body{
 div{
     width: 100px;
     cursor: pointer;
+    text-align: center;
 }
 #t1{
     background-color: rgb(255, 0, 0);
@@ -34,18 +35,22 @@ div{
     height: 160px;
 }
 #t5{
+    color: white;
     background-color: rgb(4, 0, 255);
     height: 180px;
 }
 #t6{
+    color: white;
     background-color: rgb(174, 0, 255);
     height: 200px;
 }
 #t7{
+    color: white;
     background-color: rgb(179, 53, 114);
     height: 220px;
 }
 #t8{
+    color: white;
     background-color: rgb(92, 18, 49);
     height: 240px;
 }
